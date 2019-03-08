@@ -1,6 +1,6 @@
 ﻿using System;
 
 namespace IdentityServer4.Dapper {
-    public class Class1 {
+    public interface IIdentityServerDb {
     }
 }
